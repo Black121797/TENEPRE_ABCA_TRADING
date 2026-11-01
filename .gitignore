@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.exe
+*.zip
+file_list.txt
+*.pdf

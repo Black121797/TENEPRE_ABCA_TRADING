@@ -1,0 +1,5 @@
+reportlab>=4.0
+pypdf>=5.0
+pypdfium2>=4.30
+rapidocr_onnxruntime==1.2.3
+tkinterdnd2>=0.4.2
